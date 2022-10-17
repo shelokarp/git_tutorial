@@ -1,6 +1,6 @@
 #I to build
 def add(x,y):
-  return None
+  return x+y
 
 #John to build 
 def mult(x,y):
